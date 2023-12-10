@@ -1,0 +1,1 @@
+An encoder model is used to cluster images of similar animals. Link to supplementary material - https://github.com/nathanhubens/Unsupervised-Image-Retrieval/blob/master/Unsupervised%20Image%20Retrieval.ipynb
